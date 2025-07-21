@@ -63,3 +63,4 @@ This folder holds feature plans for ScoutVex, created by Grok to guide developme
 - **Subscription**: $5–$10/month for premium features (via Bubble’s Subscription Payments plugin).
 - **Concierge Service**: $20 per CSV analysis, manually run by you.
 - **Checkpoint**: Test subscription flow in Bubble; confirm payment works.
+- **Checkpoint**: Test subscription flow in Bubble; confirm payment works.
