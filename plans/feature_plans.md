@@ -64,3 +64,4 @@ This folder holds feature plans for ScoutVex, created by Grok to guide developme
 - **Concierge Service**: $20 per CSV analysis, manually run by you.
 - **Checkpoint**: Test subscription flow in Bubble; confirm payment works.
 - **Checkpoint**: Test subscription flow in Bubble; confirm payment works.
+- **Checkpoint**: Test subscription flow in Bubble; confirm payment works.
