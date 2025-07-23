@@ -14,3 +14,6 @@ Track progress here to ensure each feature works. Check off as you complete each
 - [ ] Inventory UI: Inventory page shows box photo and card locations.
 - [ ] Multi-User: Two users in same FamilyGroup edit shared data.
 - [ ] Monetization: Subscription flow works in Bubble.
+## Notes
+- [Previous note, e.g., "Submitted exemption form... Exemption granted! Keys activating. Super excited!!!"]
+- Retrieved API keys: App ID, Dev ID, and Cert ID saved securely. Generated OAuth Token. Ready to connect to Bubble.io—WHAAAATT???!!! : )
